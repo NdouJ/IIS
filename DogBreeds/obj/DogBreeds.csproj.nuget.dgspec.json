@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jndou\\Desktop\\Zad1Ivana\\DOGF\\DogBreeds\\DogBreeds\\DogBreeds.csproj": {}
+    "C:\\IIS\\DogBreeds\\DogBreeds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jndou\\Desktop\\Zad1Ivana\\DOGF\\DogBreeds\\DogBreeds\\DogBreeds.csproj": {
+    "C:\\IIS\\DogBreeds\\DogBreeds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jndou\\Desktop\\Zad1Ivana\\DOGF\\DogBreeds\\DogBreeds\\DogBreeds.csproj",
+        "projectUniqueName": "C:\\IIS\\DogBreeds\\DogBreeds.csproj",
         "projectName": "DogBreeds",
-        "projectPath": "C:\\Users\\jndou\\Desktop\\Zad1Ivana\\DOGF\\DogBreeds\\DogBreeds\\DogBreeds.csproj",
-        "packagesPath": "C:\\Users\\jndou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jndou\\Desktop\\Zad1Ivana\\DOGF\\DogBreeds\\DogBreeds\\obj\\",
+        "projectPath": "C:\\IIS\\DogBreeds\\DogBreeds.csproj",
+        "packagesPath": "C:\\Users\\jelen\\.nuget\\packages\\",
+        "outputPath": "C:\\IIS\\DogBreeds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jndou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jelen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
