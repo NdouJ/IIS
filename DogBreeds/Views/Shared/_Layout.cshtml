@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/DOGApi.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/animation.css" asp-append-version="true" />
 
 
     <style>
@@ -29,36 +30,19 @@
             margin-right: 5px;
         }
 
+
+
+
     </style>
 </head>
 <body>
-    @*    <header>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-    <div class="container-fluid">
-    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">DOGApi</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-    aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-    <ul class="navbar-nav flex-grow-1">
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-    </li>
-    <li class="nav-item">
-    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-    </li>
-    </ul>
-    </div>
-    </div>
-    </nav>
-    </header>*@
+ 
 
     <header>
         <nav class="navbar navbar-expand-md navbar-light bg-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
-                    <img src="~/ASSETS/pet.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">
+                    <img src="~/images/dog.png" width="30" height="30" class="d-inline-block align-top" alt="">
                     DoggySite
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,16 +51,16 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active" aria-current="page" href="@Url.Action("Index", "Home")">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About</a>
+                            <a class="nav-link" href="@Url.Action("Weather", "Dhmz")">Weather</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Services</a>
+                            <a class="nav-link" href="@Url.Action("Index", "DogFacts")">Facts</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="@Url.Action("DogList", "Home")">Dogs</a>
                         </li>
                     </ul>
                 </div>
@@ -89,16 +73,18 @@
 
 
 
-
     <div class="container">
-        <main role="main" class="pb-3">
+       <div class="innerContainer">
             @RenderBody()
-        </main>
+        </div>
     </div>
 
+
+    
+
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - DOGApi - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="footcontainer">
+            &copy; 2023 - DOGApi - author: Jelena Ndou <a asp-area="" asp-controller="Home" asp-action="Index">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

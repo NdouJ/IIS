@@ -745,3 +745,9 @@ C:\IIS\DogBreeds\obj\Debug\net6.0\refint\DogBreeds.dll
 C:\IIS\DogBreeds\obj\Debug\net6.0\DogBreeds.pdb
 C:\IIS\DogBreeds\obj\Debug\net6.0\DogBreeds.genruntimeconfig.cache
 C:\IIS\DogBreeds\obj\Debug\net6.0\ref\DogBreeds.dll
+C:\IIS\DogBreeds\bin\Debug\net6.0\Azure.Core.dll
+C:\IIS\DogBreeds\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\IIS\DogBreeds\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\IIS\DogBreeds\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\IIS\DogBreeds\bin\Debug\net6.0\System.Memory.Data.dll
+C:\IIS\DogBreeds\bin\Debug\net6.0\Commons.Xml.Relaxng.dll

@@ -1,0 +1,42 @@
+﻿@using DogBreeds.ViewModels;
+@model SchemaValidationVM
+
+
+<h2>Your resoults: </h2>
+<div class="dogWrapper">
+
+    <div class="xmlPassed">
+
+        <p>@Model.MyXml</p>
+    </div>
+
+    <div class="validationResult">
+        <p>@Model.MyVlalidationResoult</p>
+
+    </div>
+
+</div>
+
+
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var validUrl = 'url("../images/v1.gif")';
+            var notValidUrl = 'url("../images/v2.gif")';
+
+            function check(name) {
+                if (name.html() !== "valid") {
+                    return notValidUrl;
+                }
+                return validUrl;
+            }
+
+            var name = $('body > div > div > div > div.validationResult>p');
+            var imageUri = check(name);
+
+            $('body > div > div > div > div.validationResult').css('background-image', imageUri);
+        });
+    </script>
+}

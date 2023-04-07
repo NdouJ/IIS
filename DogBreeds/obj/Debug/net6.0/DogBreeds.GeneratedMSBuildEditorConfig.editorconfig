@@ -16,24 +16,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\IIS\DogBreeds
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/IIS/DogBreeds/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/IIS/DogBreeds/Views/Dhmz/SelectedGrad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGhtelxTZWxlY3RlZEdyYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/IIS/DogBreeds/Views/Home/IndexXsd.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFhzZC5jc2h0bWw=
+[C:/IIS/DogBreeds/Views/Dhmz/Weather.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGhtelxXZWF0aGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/DogFacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nRmFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/Home/DogList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb2dMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/IIS/DogBreeds/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/IIS/DogBreeds/Views/Home/Result.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
+[C:/IIS/DogBreeds/Views/Rng/ResultRNG.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm5nXFJlc3VsdFJORy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/IIS/DogBreeds/Views/Home/Upload.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWQuY3NodG1s
+[C:/IIS/DogBreeds/Views/Rng/RNG.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm5nXFJORy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/IIS/DogBreeds/Views/Shared/Error.cshtml]
@@ -42,6 +54,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/IIS/DogBreeds/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/Xpath/XPath.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWHBhdGhcWFBhdGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/Xpath/XPathResoult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWHBhdGhcWFBhdGhSZXNvdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/Xsd/IndexXsd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWHNkXEluZGV4WHNkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IIS/DogBreeds/Views/Xsd/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWHNkXFJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/IIS/DogBreeds/Views/_ViewImports.cshtml]

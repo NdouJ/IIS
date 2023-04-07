@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>3</id>
+    <breedName>Afador</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Afador is a hybrid dog composed of an Afghan Hound and a Labrador Retriever that originated in Alaska around the year 2000.</breedDescription>
+    <furColor>black, brown, gray, red, fawn</furColor>
+    <origin>Alaska</origin>
+    <minHeightInches>20</minHeightInches>
+    <maxHeightInches>29</maxHeightInches>
+    <minWeightPounds>50</minWeightPounds>
+    <maxWeightPounds>75</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>4</id>
+    <breedName>Affenhuahua</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Affenhuahua is a mixed breed dog–a cross between the Chihuahua and Affenpinscher dog breeds.</breedDescription>
+    <furColor>black, brown, fawn, cream</furColor>
+    <origin>United States</origin>
+    <minHeightInches>6</minHeightInches>
+    <maxHeightInches>12</maxHeightInches>
+    <minWeightPounds>4</minWeightPounds>
+    <maxWeightPounds>12</maxWeightPounds>
+    <minLifeSpan>13</minLifeSpan>
+    <maxLifeSpan>18</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_ifzHte8.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>5</id>
+    <breedName>Affenpinscher</breedName>
+    <breedType>Companion Dogs</breedType>
+    <breedDescription>The Affenpinscher, also known as the Monkey Terrier, is a terrier-like toy Pinscher breed of dog.</breedDescription>
+    <furColor>black, gray, silver, black and tan, red, brownish, orangey tan</furColor>
+    <origin>Germany</origin>
+    <minHeightInches>9</minHeightInches>
+    <maxHeightInches>11</maxHeightInches>
+    <minWeightPounds>7</minWeightPounds>
+    <maxWeightPounds>9</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>14</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Affenpinscher.jpg</imgThumb>
+    <imgSourceURL>https://www.rawpixel.com/image/6036465/photo-image-public-domain-dog-cute</imgSourceURL>
+    <imgAttribution>Rawpixel</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>6</id>
+    <breedName>Afghan Hound</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The Afghan Hound is a hound that is distinguished by its thick, fine, silky coat and its tail with a ring curl at the end.</breedDescription>
+    <furColor>fawn, gold, brindle, white, red, cream, blue, gray, tricolour</furColor>
+    <origin>Afghanistan</origin>
+    <minHeightInches>24</minHeightInches>
+    <maxHeightInches>26</maxHeightInches>
+    <minWeightPounds>50</minWeightPounds>
+    <maxWeightPounds>60</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Afghan_Hound.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/Main_Page</imgSourceURL>
+    <imgAttribution>Lilly M</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>7</id>
+    <breedName>Airedale Terrier</breedName>
+    <breedType>Terrier Dogs</breedType>
+    <breedDescription>The Airedale Terrier (often shortened to &quot;Airedale&quot;), also called Bingley Terrier and Waterside Terrier, is a dog breed of the terrier type that originated in the valley (dale) of the River Aire, in the West Riding of Yorkshire, England.</breedDescription>
+    <furColor>tan, black</furColor>
+    <origin>Aire Valley of Yorkshire</origin>
+    <minHeightInches>21</minHeightInches>
+    <maxHeightInches>23</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>65</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>13</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Airedale_Terrier.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/Main_Page</imgSourceURL>
+    <imgAttribution>Zuni1520</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>8</id>
+    <breedName>Akbash</breedName>
+    <breedType>Working Dogs</breedType>
+    <breedDescription>The Akbash, Turkish: Akbaş, is a traditional Turkish breed or type of flock guardian dog from western Anatolia.</breedDescription>
+    <furColor>white</furColor>
+    <origin>Turkey</origin>
+    <minHeightInches>27</minHeightInches>
+    <maxHeightInches>34</maxHeightInches>
+    <minWeightPounds>75</minWeightPounds>
+    <maxWeightPounds>140</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Akbash.jpg</imgThumb>
+    <imgSourceURL>https://www.google.com/search?q=akbash&amp;tbm=isch&amp;tbs=il:cl&amp;hl=en&amp;sa=X&amp;ved=0CAAQ1vwEahcKEwjw04XP-J_5AhUAAAAAHQAAAAAQAg&amp;biw=942&amp;bih=910#imgrc=M29_XQOj2fyXbM</imgSourceURL>
+    <imgAttribution>Roberto J. Galindo</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>9</id>
+    <breedName>Akita</breedName>
+    <breedType>Working Dogs</breedType>
+    <breedDescription>The Akita is a historic dog breed of large size originating from the mountains of northern Japan.</breedDescription>
+    <furColor>black, white, chocolate</furColor>
+    <origin>Japan</origin>
+    <minHeightInches>2</minHeightInches>
+    <maxHeightInches>4</maxHeightInches>
+    <minWeightPounds>70</minWeightPounds>
+    <maxWeightPounds>130</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Akita.jpg</imgThumb>
+    <imgSourceURL>https://www.google.com/search?q=akita&amp;tbm=isch&amp;hl=en&amp;tbs=il:cl&amp;sa=X&amp;ved=0CAAQ1vwEahcKEwiQ3tqy-Z_5AhUAAAAAHQAAAAAQAg&amp;biw=942&amp;bih=910#imgrc=atT6GPXBWhc-GM</imgSourceURL>
+    <imgAttribution>KenIchiAi</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>10</id>
+    <breedName>Akita Chow</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Akita Chow is a mixed breed dog–a cross between the Akita and Chow Chow dog breeds.</breedDescription>
+    <furColor>silver, fawn, red, black, brown, white</furColor>
+    <origin>Northern America</origin>
+    <minHeightInches>23</minHeightInches>
+    <maxHeightInches>25</maxHeightInches>
+    <minWeightPounds>88</minWeightPounds>
+    <maxWeightPounds>145</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Akita_Chow.jpg</imgThumb>
+    <imgSourceURL>https://en.wikipedia.org/wiki/File:Kujo_on_snowday_2011.JPG</imgSourceURL>
+    <imgAttribution>Sigrid.c</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>11</id>
+    <breedName>Akita Pit</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Akita Pit is a mixed breed dog–a cross between the Akita and American Pit Bull Terrier dog breeds. Intelligent, protective, and loyal, these pups inherited some of the best traits from both of their parents.</breedDescription>
+    <furColor>cream, fawn, black, blue, brindle</furColor>
+    <origin>Northern America</origin>
+    <minHeightInches>16</minHeightInches>
+    <maxHeightInches>23</maxHeightInches>
+    <minWeightPounds>30</minWeightPounds>
+    <maxWeightPounds>70</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Akita_Pit.jpg</imgThumb>
+    <imgSourceURL>https://www.google.com/search?q=akita%20pit%20dog&amp;tbm=isch&amp;hl=en&amp;tbs=il:cl&amp;sa=X&amp;ved=0CAAQ1vwEahcKEwjA3_Hd-p_5AhUAAAAAHQAAAAAQAg&amp;biw=942&amp;bih=910#imgrc=WAsa1hkDizXR6M</imgSourceURL>
+    <imgAttribution>No</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>12</id>
+    <breedName>Akita Shepherd</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>An Akita Shepherd is a mixed breed dog–a cross between the Akita and German Shepherd Dog breeds.</breedDescription>
+    <furColor>brindle, white, silver, red, gray,brown, sable, black</furColor>
+    <origin/>
+    <minHeightInches>24</minHeightInches>
+    <maxHeightInches>28</maxHeightInches>
+    <minWeightPounds>75</minWeightPounds>
+    <maxWeightPounds>120</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>13</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Akita_Shepherd.jpg</imgThumb>
+    <imgSourceURL>https://www.publicdomainpictures.net/en/view-image.php?image=412224&amp;picture=akita-dog-portrait</imgSourceURL>
+    <imgAttribution>Karen Arnold</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>13</id>
+    <breedName>Alaskan Klee Kai</breedName>
+    <breedType>Companion Dogs</breedType>
+    <breedDescription>The Alaskan Klee Kai is a spitz-type breed of dog, developed in the late 20th century as a companion-sized dog resembling the larger Alaskan Malamute and Siberian Husky.</breedDescription>
+    <furColor>red and white, black and white, gray and white</furColor>
+    <origin>Alaska</origin>
+    <minHeightInches>13</minHeightInches>
+    <maxHeightInches>17</maxHeightInches>
+    <minWeightPounds>10</minWeightPounds>
+    <maxWeightPounds>15</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>16</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Alaskan_Klee_Kai.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Kobi_the_Alaskan_Klee_Kai.jpg</imgSourceURL>
+    <imgAttribution>Kobikleekai</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>14</id>
+    <breedName>Alaskan Malamute</breedName>
+    <breedType>Working Dogs</breedType>
+    <breedDescription>The Alaskan Malamute is a large breed of dog that was originally bred for their strength and endurance to haul heavy freight as a sled dog and hound</breedDescription>
+    <furColor>light gray, black, sable, red</furColor>
+    <origin>northeastern area of the Seward Peninsula</origin>
+    <minHeightInches>13.32</minHeightInches>
+    <maxHeightInches>25.2</maxHeightInches>
+    <minWeightPounds>75</minWeightPounds>
+    <maxWeightPounds>100</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Alaskan_Malamute.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Red-White_Alaskan_Malamute_female.JPG</imgSourceURL>
+    <imgAttribution>Giardeto team</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>15</id>
+    <breedName>American Bulldog</breedName>
+    <breedType>Working Dogs</breedType>
+    <breedDescription>The American Bulldog is a large, muscular breed of working dog that were used as stock dogs, catch dogs, and guardians on farms and ranches.</breedDescription>
+    <furColor>white</furColor>
+    <origin>North America</origin>
+    <minHeightInches>20</minHeightInches>
+    <maxHeightInches>28</maxHeightInches>
+    <minWeightPounds>60</minWeightPounds>
+    <maxWeightPounds>120</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>16</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Bulldog.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:American_Bulldog_Tank.jpg</imgSourceURL>
+    <imgAttribution>JR Strecker</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>16</id>
+    <breedName>American English Coonhound</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The English Coonhound, also referred to as the American English Coonhound (by the American Kennel Club only) or the Redtick Coonhound, is a breed of coonhound that originated in and is typically bred in the Southern United States.</breedDescription>
+    <furColor>red and white ticked, blue and white ticked, red and white, black and white</furColor>
+    <origin>Southern United States</origin>
+    <minHeightInches>23</minHeightInches>
+    <maxHeightInches>26</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>65</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_English_Coonhound.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Maddie_%288416820450%29.jpg</imgSourceURL>
+    <imgAttribution>BurnAway</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>17</id>
+    <breedName>American Eskimo Dog</breedName>
+    <breedType>Companion Dogs</breedType>
+    <breedDescription>The American Eskimo Dog is a breed of companion dog, originating in Germany.</breedDescription>
+    <furColor>pure white, white and cream</furColor>
+    <origin>Germany</origin>
+    <minHeightInches>15</minHeightInches>
+    <maxHeightInches>19</maxHeightInches>
+    <minWeightPounds>30</minWeightPounds>
+    <maxWeightPounds>40</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Eskimo_Dog.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_1.jpg</imgSourceURL>
+    <imgAttribution>Christmas w/a K</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>18</id>
+    <breedName>American Foxhound</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The American Foxhound is a breed of dog that is a cousin of the English Foxhound. They are scent hounds, bred to hunt foxes by scent.</breedDescription>
+    <furColor>red, tricolor, black and tan, blue</furColor>
+    <origin>Maryland and Virginia</origin>
+    <minHeightInches>21</minHeightInches>
+    <maxHeightInches>25</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>60</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>13</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Foxhound.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:American_Foxhound_At_A_Dog_Show.jpg</imgSourceURL>
+    <imgAttribution>daveynin</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>19</id>
+    <breedName>American Hairless Terrier</breedName>
+    <breedType>Terrier Dogs</breedType>
+    <breedDescription>The American Hairless Terrier is a breed of companion dog from the United States that was developed from naturally hairless Rat Terriers.</breedDescription>
+    <furColor>black, sable, blue, brindle, red, brown</furColor>
+    <origin>Trout, Louisiana</origin>
+    <minHeightInches>12</minHeightInches>
+    <maxHeightInches>16</maxHeightInches>
+    <minWeightPounds>10</minWeightPounds>
+    <maxWeightPounds>16</maxWeightPounds>
+    <minLifeSpan>13</minLifeSpan>
+    <maxLifeSpan>16</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Hairless_Terrier.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:American_hairless_terrier_Adelor2.jpg</imgSourceURL>
+    <imgAttribution>Nyaah</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>20</id>
+    <breedName>American Leopard Hound</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The American Leopard Hound is an American breed of hunting dog.</breedDescription>
+    <furColor>yellow, black, brindle, red and blue, mouse(grayish)</furColor>
+    <origin>North America</origin>
+    <minHeightInches>21</minHeightInches>
+    <maxHeightInches>27</maxHeightInches>
+    <minWeightPounds>35</minWeightPounds>
+    <maxWeightPounds>75</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_hYuKnbo.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>21</id>
+    <breedName>American Pit Bull Terrier</breedName>
+    <breedType>Terrier Dogs</breedType>
+    <breedDescription>It is a medium-sized, intelligent, short-haired dog, of a solid build, whose early ancestors came from the British Isles.</breedDescription>
+    <furColor>red, blue, brown, grey, black and white, brindle</furColor>
+    <origin>England</origin>
+    <minHeightInches>17</minHeightInches>
+    <maxHeightInches>19</maxHeightInches>
+    <minWeightPounds>30</minWeightPounds>
+    <maxWeightPounds>85</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>16</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Pit_Bull_Terrier.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:007_American_Pit_Bull_Terrier.jpg</imgSourceURL>
+    <imgAttribution>https://www.flickr.com/photos/geoggirl/</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>22</id>
+    <breedName>American Pugabull</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The American Pugabull is not a purebred dog. It is a cross between the Pug and the American Bulldog.</breedDescription>
+    <furColor>tan, cream, brown, black, red, white</furColor>
+    <origin>North America</origin>
+    <minHeightInches>12</minHeightInches>
+    <maxHeightInches>20</maxHeightInches>
+    <minWeightPounds>25</minWeightPounds>
+    <maxWeightPounds>70</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>14</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_Xi10jsK.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>23</id>
+    <breedName>American Staffordshire Terrier</breedName>
+    <breedType>Terrier Dogs</breedType>
+    <breedDescription>The American Staffordshire Terrier, also known as the AmStaff or American Staffy is a medium-sized, short-coated American dog breed.</breedDescription>
+    <furColor>blue, fawn, white, black, red</furColor>
+    <origin>England</origin>
+    <minHeightInches>16</minHeightInches>
+    <maxHeightInches>19</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>60</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Staffordshire_Terrier.jpg</imgThumb>
+    <imgSourceURL>https://en.wikipedia.org/wiki/American_Staffordshire_Terrier#/media/File:AMERICAN_STAFFORDSHIRE_TERRIER,_Zican%E2%80%99s_Bz_Ez_Dragon_(24208348891).2.jpg</imgSourceURL>
+    <imgAttribution>Svenska Mässan from Sweden</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>24</id>
+    <breedName>American Water Spaniel</breedName>
+    <breedType>Sporting Dogs</breedType>
+    <breedDescription>The American Water Spaniel, (often abbreviated to AWS), is a breed of spaniel which originated in the United States.</breedDescription>
+    <furColor>solid liver, brown, dark chocolate</furColor>
+    <origin>Fox and Wolf River valleys of Wisconsin</origin>
+    <minHeightInches>3</minHeightInches>
+    <maxHeightInches>6</maxHeightInches>
+    <minWeightPounds>25</minWeightPounds>
+    <maxWeightPounds>45</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/American_Water_Spaniel.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:American_Water_Spaniel_001.jpg</imgSourceURL>
+    <imgAttribution>ltshears</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>25</id>
+    <breedName>Anatolian Shepherd Dog</breedName>
+    <breedType>Working Dogs</breedType>
+    <breedDescription>Anatolian Shepherd Dog is the name used in the United States to describe dogs descended from regional Turkish livestock guardian dogs, particularly the Kangal but also the Akbash, from the late 1960s.</breedDescription>
+    <furColor>pinto, white, brindle</furColor>
+    <origin>Anatolia in the central part of Turkey</origin>
+    <minHeightInches>27.6</minHeightInches>
+    <maxHeightInches>30</maxHeightInches>
+    <minWeightPounds>80</minWeightPounds>
+    <maxWeightPounds>150</maxWeightPounds>
+    <minLifeSpan>11</minLifeSpan>
+    <maxLifeSpan>13</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Anatolian_Shepherd_Dog.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Anatolian_2009_pl3.jpg</imgSourceURL>
+    <imgAttribution>Pleple2000</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>26</id>
+    <breedName>Appenzeller Sennenhunde</breedName>
+    <breedType>Herding Dogs</breedType>
+    <breedDescription>The Appenzeller Sennenhund is a medium-size breed of dog, one of the four regional breeds of Sennenhund-type dogs from the Swiss Alps.</breedDescription>
+    <furColor>shiny topcoat in black or brown with tan and white markings, covering a thick black, brown, or gray undercoat</furColor>
+    <origin>Switzerland</origin>
+    <minHeightInches>19</minHeightInches>
+    <maxHeightInches>22</maxHeightInches>
+    <minWeightPounds>48</minWeightPounds>
+    <maxWeightPounds>55</maxWeightPounds>
+    <minLifeSpan>9</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Appenzeller_Sennenhunde.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Appenzeller_Sennenhund.JPG</imgSourceURL>
+    <imgAttribution>Christel Hust</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>27</id>
+    <breedName>Auggie</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Auggie is a mixed breed dog–a cross between the Australian Shepherd and Corgi, and typically, the Miniature Australian Shepherd and the Pembroke Welsh Corgi.</breedDescription>
+    <furColor>combination of black, tan, brown, and white.</furColor>
+    <origin>America</origin>
+    <minHeightInches>10</minHeightInches>
+    <maxHeightInches>13</maxHeightInches>
+    <minWeightPounds>20</minWeightPounds>
+    <maxWeightPounds>30</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Auggie.jpg</imgThumb>
+    <imgSourceURL>https://www.flickr.com/photos/ocalways/22194175350</imgSourceURL>
+    <imgAttribution/>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>28</id>
+    <breedName>Aussiedoodle</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Aussiedoodle is a mixed breed dog — a cross between the Australian Shepherd and Poodle dog breeds.</breedDescription>
+    <furColor>blue merle, red merle, black and red tri, black and tan (AKA &quot;phantom&quot;), parti, sable, or even a solid color in rare cases</furColor>
+    <origin>North America</origin>
+    <minHeightInches>10</minHeightInches>
+    <maxHeightInches>15</maxHeightInches>
+    <minWeightPounds>25</minWeightPounds>
+    <maxWeightPounds>70</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>13</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Aussiedoodle.jpg</imgThumb>
+    <imgSourceURL>https://www.flickr.com/photos/50697352@N00/8459077862</imgSourceURL>
+    <imgAttribution/>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>29</id>
+    <breedName>Aussiepom</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>An Aussie Pom is the mix between a purebred standard, mini, or toy Australian Shepherd and Pomeranian.</breedDescription>
+    <furColor>red merle, blue merle, tri-color</furColor>
+    <origin>North America</origin>
+    <minHeightInches>11</minHeightInches>
+    <maxHeightInches>17</maxHeightInches>
+    <minWeightPounds>10</minWeightPounds>
+    <maxWeightPounds>30</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_vD17UF3.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>30</id>
+    <breedName>Australian Cattle Dog</breedName>
+    <breedType>Herding Dogs</breedType>
+    <breedDescription>The Australian Cattle Dog (ACD), or simply Cattle Dog, is a breed of herding dog originally developed in Australia for droving cattle over long distances across rough terrain</breedDescription>
+    <furColor>blue or red speckle</furColor>
+    <origin>Australia</origin>
+    <minHeightInches>17</minHeightInches>
+    <maxHeightInches>20</maxHeightInches>
+    <minWeightPounds>30</minWeightPounds>
+    <maxWeightPounds>50</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Australian_Cattle_Dog.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog_-_Female_one_year_old.JPG</imgSourceURL>
+    <imgAttribution>Ahodges7</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>31</id>
+    <breedName>Australian Kelpie</breedName>
+    <breedType>Herding Dogs</breedType>
+    <breedDescription>The Australian Kelpie, or simply Kelpie, is an Australian sheepdog capable of mustering and droving with little or no guidance.</breedDescription>
+    <furColor>black, red, chocolate, black with tan markings, red with tan markings, smokey blue, or fawn</furColor>
+    <origin>Australia</origin>
+    <minHeightInches>15</minHeightInches>
+    <maxHeightInches>20</maxHeightInches>
+    <minWeightPounds>25</minWeightPounds>
+    <maxWeightPounds>46</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Australian_Kelpie.jpg</imgThumb>
+    <imgSourceURL>https://www.google.com/search?q=Australian%20Kelpie&amp;tbm=isch&amp;hl=en&amp;tbs=il:cl&amp;sa=X&amp;ved=0CAAQ1vwEahcKEwiQnI6ChqD5AhUAAAAAHQAAAAAQAg&amp;biw=942&amp;bih=910#imgrc=sZK0XUvqUWUeQM</imgSourceURL>
+    <imgAttribution>Boggas</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>32</id>
+    <breedName>Australian Retriever</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Australian Retriever is a mixed breed dog–a cross between the Australian Shepherd and Golden Retriever dog breeds. Loyal, intelligent, and friendly, these pups inherited some of the best traits from both of their parents.</breedDescription>
+    <furColor>black, brown, and white</furColor>
+    <origin>United States</origin>
+    <minHeightInches>19</minHeightInches>
+    <maxHeightInches>23</maxHeightInches>
+    <minWeightPounds>25</minWeightPounds>
+    <maxWeightPounds>60</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_OpKt6EM.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>33</id>
+    <breedName>Australian Shepherd</breedName>
+    <breedType>Herding Dogs</breedType>
+    <breedDescription>The Australian Shepherd is a breed of herding dog from the United States.</breedDescription>
+    <furColor>blue merle, red merle, red, tri-color (white, black, and tan), and black</furColor>
+    <origin>Western United States</origin>
+    <minHeightInches>18</minHeightInches>
+    <maxHeightInches>23</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>65</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Australian_Shepherd.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Blue_Merle_Australian_Shepherd_%22Luke%22.jpg</imgSourceURL>
+    <imgAttribution>GizaDog</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>34</id>
+    <breedName>Australian Shepherd Husky</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Australian Shepherd Husky is a mixed breed dog — a cross between the Australian Shepherd and Siberian Husky dog breeds.</breedDescription>
+    <furColor>black, white, brown cream, and tan</furColor>
+    <origin>North America</origin>
+    <minHeightInches>18</minHeightInches>
+    <maxHeightInches>25</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>65</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_U9UA0fT.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>35</id>
+    <breedName>Australian Shepherd Lab Mix</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Australian Shepherd Lab Mix is a mixed breed dog — a cross between the Australian Shepherd and the Labrador Retriever dog breeds.</breedDescription>
+    <furColor>brown, cream, black, tan, and brindle</furColor>
+    <origin>North America</origin>
+    <minHeightInches>22</minHeightInches>
+    <maxHeightInches>25</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>80</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_BaRAr2V.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>36</id>
+    <breedName>Australian Shepherd Pit Bull Mix</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Australian Shepherd Pit Bull Mix is a mixed breed dog — a cross between the Australian Shepherd and Pit Bull dog breeds. Energetic, loyal, and quick to learn new things, these pups inherited some of the best traits from both of their parents.</breedDescription>
+    <furColor>blue merle, black, red merle, and cream</furColor>
+    <origin>North America</origin>
+    <minHeightInches>17</minHeightInches>
+    <maxHeightInches>23</maxHeightInches>
+    <minWeightPounds>30</minWeightPounds>
+    <maxWeightPounds>85</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>16</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_wKWRjyk.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>37</id>
+    <breedName>Australian Stumpy Tail Cattle Dog</breedName>
+    <breedType>Herding Dogs</breedType>
+    <breedDescription>The Stumpy Tailed Heeler is a naturally bobtailed or tailless, medium-sized cattle dog similar and/or related to the Australian Cattle Dog.</breedDescription>
+    <furColor>blue, red, and tan, often with speckles or merle patterns</furColor>
+    <origin>Australia</origin>
+    <minHeightInches>17</minHeightInches>
+    <maxHeightInches>20</maxHeightInches>
+    <minWeightPounds>35</minWeightPounds>
+    <maxWeightPounds>51</maxWeightPounds>
+    <minLifeSpan>13</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Australian_Stumpy_Tail_Cattle_Dog.jpg</imgThumb>
+    <imgSourceURL>https://en.wikipedia.org/wiki/Australian_Stumpy_Tail_Cattle_Dog#/media/File:Australian_Stumpy_Tail_Cattle_Dog.jpg</imgSourceURL>
+    <imgAttribution>https://www.flickr.com/photos/ittypuddies/6242167025/</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>38</id>
+    <breedName>Australian Terrier</breedName>
+    <breedType>Terrier Dogs</breedType>
+    <breedDescription>The Australian Terrier is a small breed of dog of the terrier dog type. The breed was developed in Australia, although the ancestral types of dogs from which the breed descends were from Great Britain.</breedDescription>
+    <furColor>blue and tan (tan body with a blue saddle), sandy, and red</furColor>
+    <origin>Australia</origin>
+    <minHeightInches>10</minHeightInches>
+    <maxHeightInches>11</maxHeightInches>
+    <minWeightPounds>14</minWeightPounds>
+    <maxWeightPounds>16</maxWeightPounds>
+    <minLifeSpan>0</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Australian_Terrier.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Australian_Terrier_Kruemel_in_der_Abendsonne.jpg</imgSourceURL>
+    <imgAttribution>Ketterechts</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>39</id>
+    <breedName>Azawakh</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The Azawakh is a breed of dog from West Africa. With ancient origins, it is raised throughout the Sahelian zone of Mali, Niger, and Burkina Faso.</breedDescription>
+    <furColor>clear sand to dark red, white, black, blue, gray, brindle, grizzle, parti-color and all shades of brown, including chocolate</furColor>
+    <origin>Sahel region of the Sahara Desert</origin>
+    <minHeightInches>23</minHeightInches>
+    <maxHeightInches>27</maxHeightInches>
+    <minWeightPounds>33</minWeightPounds>
+    <maxWeightPounds>55</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Azawakh.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Azawakh_Fahim_Kel_Az%27Amour.jpg</imgSourceURL>
+    <imgAttribution>Pat028</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>40</id>
+    <breedName>Barbado da Terceira</breedName>
+    <breedType>Working Dogs</breedType>
+    <breedDescription>The Barbado da Terceira is Portuguese breed of herding and guard dog from the Atlantic island of Terceira in the Azores, for which it is named.</breedDescription>
+    <furColor>mix of black, fawn, yellow, and grey</furColor>
+    <origin>Portuguese island of Terceira</origin>
+    <minHeightInches>19</minHeightInches>
+    <maxHeightInches>22</maxHeightInches>
+    <minWeightPounds>46</minWeightPounds>
+    <maxWeightPounds>60</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>14</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Barbado_da_Terceira.jpg</imgThumb>
+    <imgSourceURL>https://pixabay.com/photos/dog-black-tongue-5678405/</imgSourceURL>
+    <imgAttribution>drealmere</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>41</id>
+    <breedName>Barbet</breedName>
+    <breedType>Sporting Dogs</breedType>
+    <breedDescription>The Barbet is a breed of dog; it is a medium-sized French water dog. It is listed in Group 8 by the Société Centrale Canine, the French Kennel Club and the Fédération Cynologique Internationale.</breedDescription>
+    <furColor>solid black, gray, brown, fawn, pale fawn, red fawn, and white</furColor>
+    <origin>France</origin>
+    <minHeightInches>20</minHeightInches>
+    <maxHeightInches>25</maxHeightInches>
+    <minWeightPounds>37</minWeightPounds>
+    <maxWeightPounds>62</maxWeightPounds>
+    <minLifeSpan>13</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Barbet.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Barbety_suki_2009_pl3.jpg</imgSourceURL>
+    <imgAttribution>Pleple2000</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>42</id>
+    <breedName>Basenji</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The Basenji is a breed of hunting dog. It was bred from stock that originated in central Africa.</breedDescription>
+    <furColor>chestnut red, black, tricolor (black and chestnut), or brindle (black stripes on a chestnut background), all with white feet,</furColor>
+    <origin>Congo</origin>
+    <minHeightInches>16</minHeightInches>
+    <maxHeightInches>17</maxHeightInches>
+    <minWeightPounds>22</minWeightPounds>
+    <maxWeightPounds>24</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Basenji.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Basenji,_Bronco.jpg</imgSourceURL>
+    <imgAttribution>fugzu</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>43</id>
+    <breedName>Bassador</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Bassador is a mixed breed dog–a cross between the Basset Hound and the Labrador Retriever dog breeds.</breedDescription>
+    <furColor>white, brown, and black</furColor>
+    <origin>North America</origin>
+    <minHeightInches>13</minHeightInches>
+    <maxHeightInches>20</maxHeightInches>
+    <minWeightPounds>45</minWeightPounds>
+    <maxWeightPounds>70</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Bassador.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Fred_Maley,_Bassador,_Salton_Sea,_California,_December_2013.jpg</imgSourceURL>
+    <imgAttribution>Jmaley1</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>44</id>
+    <breedName>Basset Fauve de Bretagne</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The Basset Fauve de Bretagne is a short-legged hunting breed of dog of the scent hound type, originally from Brittany, a historical duchy of France.</breedDescription>
+    <furColor>fawn, wheaten, and red wheaten</furColor>
+    <origin>Brittany</origin>
+    <minHeightInches>12</minHeightInches>
+    <maxHeightInches>15</maxHeightInches>
+    <minWeightPounds>25</minWeightPounds>
+    <maxWeightPounds>35</maxWeightPounds>
+    <minLifeSpan>12</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Basset_Fauve_de_Bretagne.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne2.jpg</imgSourceURL>
+    <imgAttribution>pc.david</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>45</id>
+    <breedName>Basset Hound</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The Basset Hound is a short-legged breed of dog in the hound family. The Basset is a scent hound that was originally bred for the purpose of hunting hare.</breedDescription>
+    <furColor>tri-color (tan, black, and white), black and white, brown and white, or red and white</furColor>
+    <origin>France</origin>
+    <minHeightInches>1</minHeightInches>
+    <maxHeightInches>14</maxHeightInches>
+    <minWeightPounds>50</minWeightPounds>
+    <maxWeightPounds>65</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Basset_Hound.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:BassetHound.jpg</imgSourceURL>
+    <imgAttribution>Galanza</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>46</id>
+    <breedName>Basset Retriever</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Basset Retriever is a mixed breed dog–a cross between the Basset Hound and Golden Retriever dog breeds.</breedDescription>
+    <furColor>black, chocolate, golden, and white</furColor>
+    <origin>France</origin>
+    <minHeightInches>10</minHeightInches>
+    <maxHeightInches>14</maxHeightInches>
+    <minWeightPounds>40</minWeightPounds>
+    <maxWeightPounds>70</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>12</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_R8hMuKZ.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>47</id>
+    <breedName>Bavarian Mountain Scent Hound</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The Bavarian Mountain Hound is a breed of dog from Germany. As a scent hound, it has been used in Germany since the early 20th century to trail wounded game.</breedDescription>
+    <furColor>brindle, reddish brown, or tan</furColor>
+    <origin>Germany</origin>
+    <minHeightInches>17</minHeightInches>
+    <maxHeightInches>20</maxHeightInches>
+    <minWeightPounds>44</minWeightPounds>
+    <maxWeightPounds>55</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>14</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Bavarian_Mountain_Scent_Hound.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Bavarian_Mountain_Scenthound.jpg</imgSourceURL>
+    <imgAttribution>Canarian</imgAttribution>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+  <row>
+    <id>48</id>
+    <breedName>Beabull</breedName>
+    <breedType>Mixed Breed Dogs</breedType>
+    <breedDescription>The Beabull is a mixed breed dog — a cross between the Beagle and the English Bulldog breeds. Loyal, curious, and loving, these pups inherited some of the best qualities from both of their parents.</breedDescription>
+    <furColor>brown and white, tri-colored, gold, and solid white</furColor>
+    <origin>North America</origin>
+    <minHeightInches>12</minHeightInches>
+    <maxHeightInches>16</maxHeightInches>
+    <minWeightPounds>30</minWeightPounds>
+    <maxWeightPounds>60</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>13</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/dog-default_BTaq5bB.jpg</imgThumb>
+    <imgSourceURL/>
+    <imgAttribution/>
+    <imgCreativeCommons>false</imgCreativeCommons>
+  </row>
+  <row>
+    <id>49</id>
+    <breedName>Beagle</breedName>
+    <breedType>Hound Dogs</breedType>
+    <breedDescription>The beagle breed is a small scent hound, similar in appearance to the much larger foxhound. The beagle was developed primarily for hunting hare known as beagling.</breedDescription>
+    <furColor>black saddle, red and white</furColor>
+    <origin>France</origin>
+    <minHeightInches>13</minHeightInches>
+    <maxHeightInches>15</maxHeightInches>
+    <minWeightPounds>18</minWeightPounds>
+    <maxWeightPounds>30</maxWeightPounds>
+    <minLifeSpan>10</minLifeSpan>
+    <maxLifeSpan>15</maxLifeSpan>
+    <imgThumb>https://s3.us-west-004.backblazeb2.com/encurate/static/dogbreed/Beagle.jpg</imgThumb>
+    <imgSourceURL>https://commons.wikimedia.org/wiki/File:Beagle_puppy_sitting_on_grass.jpg</imgSourceURL>
+    <imgAttribution/>
+    <imgCreativeCommons>true</imgCreativeCommons>
+  </row>
+
+ 
+</root>

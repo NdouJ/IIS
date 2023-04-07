@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DogBreeds.Models.DogBreed>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>Dog Search resoult</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.BreedName)
+            </th>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.BreedDescription)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedName)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedDescription)
+            </td>
+         
+        </tr>
+}
+    </tbody>
+</table>

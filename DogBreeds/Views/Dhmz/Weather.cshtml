@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Grad>
+
+<form asp-controller="Dhmz" asp-action="SelectedGrad" method="post">
+    <label for="grads">Select a Grad:</label>
+    <br />
+    <br />
+    <select id="grads" name="grads" class="btn btn-secondary btn-lg dropdown-toggle">
+        @foreach (var grad in Model)
+        {
+            <option value="@grad.GradIme">@grad.GradIme</option>
+        }
+    </select>
+    <br />
+    <br />
+    <button type="submit">Submit</button>
+</form>

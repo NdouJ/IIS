@@ -5,12 +5,64 @@
       "PackagePath": "staticwebassets\\DogBreeds.bundle.scp.css"
     },
     {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\css\\animation.css",
+      "PackagePath": "staticwebassets\\css\\animation.css"
+    },
+    {
       "Id": "C:\\IIS\\DogBreeds\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\IIS\\DogBreeds\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\DogHoldingABoard.jpg",
+      "PackagePath": "staticwebassets\\images\\DogHoldingABoard.jpg"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\d1.png",
+      "PackagePath": "staticwebassets\\images\\d1.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\d2.png",
+      "PackagePath": "staticwebassets\\images\\d2.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\d3.png",
+      "PackagePath": "staticwebassets\\images\\d3.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\dog.png",
+      "PackagePath": "staticwebassets\\images\\dog.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\dogSitting.png",
+      "PackagePath": "staticwebassets\\images\\dogSitting.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\dogTwerk.gif",
+      "PackagePath": "staticwebassets\\images\\dogTwerk.gif"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\error.png",
+      "PackagePath": "staticwebassets\\images\\error.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\paws.png",
+      "PackagePath": "staticwebassets\\images\\paws.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\petMe.png",
+      "PackagePath": "staticwebassets\\images\\petMe.png"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\v1.gif",
+      "PackagePath": "staticwebassets\\images\\v1.gif"
+    },
+    {
+      "Id": "C:\\IIS\\DogBreeds\\wwwroot\\images\\v2.gif",
+      "PackagePath": "staticwebassets\\images\\v2.gif"
     },
     {
       "Id": "C:\\IIS\\DogBreeds\\wwwroot\\js\\site.js",

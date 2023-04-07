@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Upload File: ";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (ViewBag.Error != null)
+{
+        <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+
+<div>
+    <form asp-controller="Xsd" asp-action="Result" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="file">Select an XML file:</label>
+            <input class ="form-control" type="file"  id="file" name="file">
+        </div>
+
+  <span id="SpanSubmit">
+      <br />
+            <button type="submit" >Upload</button>
+  </span>
+
+    </form>
+
+
+
+</div>
+

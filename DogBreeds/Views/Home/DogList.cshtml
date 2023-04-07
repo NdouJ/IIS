@@ -1,0 +1,72 @@
+﻿@model IEnumerable<DogBreeds.Models.DogBreed>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.BreedName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BreedType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BreedDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FurColor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Origin)
+            </th>
+          
+         
+            <th>
+                @Html.DisplayNameFor(model => model.MaxLifeSpan)
+            </th>
+          
+          
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FurColor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Origin)
+            </td>
+        
+            <td>
+                @Html.DisplayFor(modelItem => item.MaxWeightPounds)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.MaxLifeSpan)
+            </td>
+        
+       
+          
+        </tr>
+}
+    </tbody>
+</table>

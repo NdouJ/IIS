@@ -1,0 +1,54 @@
+<element name="root" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+	<oneOrMore>
+		<element name="row">
+			<element name="id">
+				<text/>
+			</element>
+			<element name="breedName">
+				<text/>
+			</element>
+			<element name="breedType">
+				<text/>
+			</element>
+			<element name="breedDescription">
+				<text/>
+			</element>
+			<element name="furColor">
+				<text/>
+			</element>
+			<element name="origin">
+				<text/>
+			</element>
+			<element name="minHeightInches">
+				<text/>
+			</element>
+			<element name="maxHeightInches">
+				<text/>
+			</element>
+			<element name="minWeightPounds">
+				<text/>
+			</element>
+			<element name="maxWeightPounds">
+				<text/>
+			</element>
+			<element name="minLifeSpan">
+				<text/>
+			</element>
+			<element name="maxLifeSpan">
+				<text/>
+			</element>
+			<element name="imgThumb">
+				<text/>
+			</element>
+			<element name="imgSourceURL">
+				<text/>
+			</element>
+			<element name="imgAttribution">
+				<text/>
+			</element>
+			<element name="imgCreativeCommons">
+				<text/>
+			</element>
+		</element>
+	</oneOrMore>
+</element>

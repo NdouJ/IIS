@@ -1,0 +1,77 @@
+﻿
+@model string
+
+
+<div class="dogWrapper"> 
+
+
+ 
+    <div class="dogFact">
+      
+        
+     
+
+    </div>
+
+    <div class="dogText">
+        <div class="factText">
+            @Model
+
+            <button type="button" onclick="location.href='@Url.Action("IndexPost", "DogFacts")'">More</button>
+        </div>
+     
+    </div>
+
+   
+</div>
+
+
+
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var currentImageIndex = getCookie('dogFactImageIndex');
+            if (currentImageIndex === null) {
+                currentImageIndex = 0;
+            } else {
+                currentImageIndex = parseInt(currentImageIndex);
+            }
+
+            var imageUrls = [
+                'url("../images/d1.png")',
+                'url("../images/d2.png")',
+                'url("../images/d3.png")'
+            ];
+
+            var nextImageIndex = (currentImageIndex + 1) % imageUrls.length;
+
+            var nextImageUrl = imageUrls[nextImageIndex];
+
+            $('.dogFact').css('background-image', nextImageUrl);
+
+            setCookie('dogFactImageIndex', nextImageIndex);
+        });
+
+        function getCookie(name) {
+            var cookieName = name + '=';
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.indexOf(cookieName) === 0) {
+                    return cookie.substring(cookieName.length, cookie.length);
+                }
+            }
+            return null;
+        }
+
+        function setCookie(name, value) {
+            var expires = new Date();
+            expires.setTime(expires.getTime() + (24 * 60 * 60 * 1000));
+            var cookieValue = name + '=' + value + '; expires=' + expires.toUTCString() + '; path=/';
+            document.cookie = cookieValue;
+        }
+    </script>
+}
+
